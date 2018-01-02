@@ -14,6 +14,18 @@ This is a simple Shiny app that tracks the stock price of 6 technology stocks. F
 
 Author: Eric Do (ericdh1810@gmail.com)
 
+### Package Used
+
+`shiny` 1.0.5
+
+`shinycssloaders` 0.2.0
+
+`shinythemes` 1.1.1 
+
+`quantmod` 0.4.12
+
+`dygraphs` 1.1.1.4
+
 ### Screenshots: 
 
 Access Page: 
